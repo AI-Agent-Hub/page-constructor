@@ -596,3 +596,11 @@ AI agents can read these files to quickly get up to speed with the project conte
 ## Tests
 
 Comprehensive documentation is available at the provided [link](./test-utils/docs/README.md).
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=gravity-ui/page-constructor&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent-builder/pub-gravity-ui/page-constructor)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=gravity-ui/page-constructor'
+```
+    
